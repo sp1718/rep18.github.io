@@ -2,65 +2,24 @@
 ### Sommersemester 2018
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
- - Zeit: Mo 14:00-16:00 und Fr 10:00-12:00
- - Zusätzliches Tutorat: Mi 12:00-14:00
- - Ort: Hörsaal B U101, Oettingenstr. 67
- - Dozent: Dr. Benjamin Roth
- - Tutoren: Ivana Daskalovska, Simon Preißner, Falk Spellerberg
+ - Zeit: Mo 15:00-15:45 
+ - Raum: 151, Oettingenstr. 67
+ - Dozent: Marina Sedinkina
 
-<span style="color:red">**[Ergebnisse der Klausur](https://eicl1718.github.io/ergebnisse){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.)
-
-Klausureinsicht: Mittwoch, 21.2.2018, 16:00-17:00, Raum C 105, und nach Vereinbarung.
 
 - - -
 
-<span style="color:red">**Die Klausur findet am 9.2.2018 von 10:00-12:00, Hörsaal B001 (=über dem 'üblichen' Hörsaal BU101) statt.**</span>
- - <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
- - <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/4uEpwaoRroaOU7nK2){:target="_blank"} (Frist: 26.1.)</span>
- - Sie müssen für die Klausur angemeldet sein und Sie benötigen Ihren Studentenausweis um bei der Klausur mitschreiben zu dürfen.
- - Sie können ein von Ihnen handbeschriebenes, zweiseitiges DIN-A4 Blatt mit für Sie nützlichen Informationen/Merkhilfen in der Klausur verwenden. Das Blatt wird zusammen mit der Klausur eingesammelt.
- - Sie dürfen einen nicht-programmierbaren Taschenrechner benutzen.
- - Handys (... Smartwachtes etc.) sind nicht erlaubt (müssen ausgeschaltet und weggepackt sein).
- - Dauer der Klausur: 90 Minuten
+Sie erreichen den Dozenten unter:
 
-- - -
-Die Nachklausur findet am Samstag, den 10.3.2018 um 10:00 statt (<span style="color:red">*Hörsaal wird noch festgelegt*</span>)
-- - -
-Plan für die letzten Vorlesungseinheiten:
-
-Freitag, 26.1.
-
-  - VL, Stoff: Parsing/CYK
-  - Freischaltung letztes Übungsblatt zu Stoff (Abgabetermin: 2.2.)
-  - Ausgabe Probeklausur (Besprechung: 2.2.)
-
-Montag, 29.1.
-
-  - Ü: Parsing: Shift-Reduce/CYK
-  - Freischaltung "Übungsblatt": Studentenfragen (Abgabetermin: 4.2.)
-
-Freitag: 2.2.
-
-  - Besprechung Probeklausur
-
-Montag: 5.2.
-
-  - Besprechung Studentenfragen
-
-Freitag: 9.2.
-
-  - Klausur
-
-- - -
-
-Sie erreichen den Dozenten und die Tutoren unter:
-
-eicl1718 [at] cis [dot] uni [minus] muenchen [dot] de
+marina [dot] sedinkina [at] campus [dot] lmu [dot]  de
 
  Vorlesungsmaterialien:
   - Erste Sitzung: [pdf](https://eicl1718.github.io/intro.pdf){:target="_blank"}
   - Weitere Materialien über Moodle.
   - Anmeldung zu [Moodle](https://moodle.lmu.de/course/view.php?id=2445){:target="_blank"} mit Campus-Kennung und folgendem Schlüssel: eicl1718
 
-Tutoriumsmaterialien:
+Repetitoriumsmaterialien:
 
+| Date | slides | homework | materials |
+|-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
+| Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_basics.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  | [Korrektur_python_basics](correction_01_python_basics.txt){:target="_blank"} |
