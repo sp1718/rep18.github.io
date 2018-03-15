@@ -13,13 +13,10 @@ Sie erreichen den Dozenten unter:
 
 marina [dot] sedinkina [at] campus [dot] lmu [dot]  de
 
- Vorlesungsmaterialien:
-  - Erste Sitzung: [pdf](https://eicl1718.github.io/intro.pdf){:target="_blank"}
-  - Weitere Materialien über Moodle.
-  - Anmeldung zu [Moodle](https://moodle.lmu.de/course/view.php?id=2445){:target="_blank"} mit Campus-Kennung und folgendem Schlüssel: eicl1718
+In dieser Veranstaltungen werden Fähigkeiten erarbeitet, die im Rahmen der Anfertigung der Bachelorarbeit nützlich sind.
 
 Repetitoriumsmaterialien:
 
-| Date | slides | homework | materials |
-|-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
-| Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_basics.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  | [Korrektur_python_basics](correction_01_python_basics.txt){:target="_blank"} |
+| Date | slides | materials |
+|-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
+| Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_basics.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"}  | [Korrektur_python_basics](correction_01_python_basics.txt){:target="_blank"} |
